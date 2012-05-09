@@ -1,4 +1,7 @@
-.eunit
+.eunit/
+ebin/
+doc/
 
 *.beam
+*.dump
 *.*.swp
