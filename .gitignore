@@ -1,6 +1,6 @@
 .eunit/
-ebin/
 doc/
+deps/
 
 *.beam
 *.dump
